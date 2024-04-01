@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, we're members of Raven Cybersecurity</h1>
 <h3 align="center">Welcome to our page! We are a team of passionate individuals who share a love for coding, gaming, and cats. With our diverse backgrounds and expertise, we're dedicated to creating innovative solutions and engaging content that resonate with fellow enthusiasts. Whether you're seeking tech insights, or gaming tips, you'll find a welcoming community and valuable resources here. 
 </h3>
+<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5f9fdde3-1a09-44e1-835e-67901a758fee/d2vpjjw-e7a4190e-8b41-413b-8ab0-8232bc4bbf17.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVmOWZkZGUzLTFhMDktNDRlMS04MzVlLTY3OTAxYTc1OGZlZVwvZDJ2cGpqdy1lN2E0MTkwZS04YjQxLTQxM2ItOGFiMC04MjMyYmM0YmJmMTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6U8XUkpxGpEcmUvyyzStxCwzj8IGuFBXgnfmzTa1svg">
+
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
